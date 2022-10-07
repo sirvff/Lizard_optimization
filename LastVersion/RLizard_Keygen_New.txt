@@ -1,0 +1,14 @@
+
+  //////////////////////////////////////////////////////////////////
+
+		RLizard.KEM_CATEGORY1 Parameter
+
+    LWE dimension: 1024, 		LWR dimension: 1024
+    Plaintext dimension: 1024, 		Plaintext Modulus: 1 bits	
+    Public Key modulus: 10 bits, 	Ciphertext modulus: 8 bits	
+
+  //////////////////////////////////////////////////////////////////
+
+			Performance Test
+
+    Keygen Time: 0.424300 ms, SD: 0.053474, min: 0.300000, max: 0.600000, iter: 1000
